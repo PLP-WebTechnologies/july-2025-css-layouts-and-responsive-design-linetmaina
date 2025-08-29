@@ -1,5 +1,3 @@
-**CSS Layouts and Responsive Design
-
 ## Overview
 This is my assignment for **CSS Layouts and Responsive Web Design**. In this project, I built a multi-section webpage that uses **Flexbox** and **CSS Grid** to create a flexible and responsive layout. The goal was to make the page look good on **desktop, tablet, and mobile screens** without using any CSS frameworks or libraries — just raw CSS.
 
