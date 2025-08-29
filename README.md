@@ -1,51 +1,27 @@
-# 🧩 Assignment: CSS Layouts & Responsive Web Design
+# July 2025 - CSS Layouts and Responsive Design
 
 ## Overview
+This is my assignment for **CSS Layouts and Responsive Web Design**. In this project, I built a multi-section webpage that uses **Flexbox** and **CSS Grid** to create a flexible and responsive layout. The goal was to make the page look good on **desktop, tablet, and mobile screens** without using any CSS frameworks or libraries — just raw CSS.
 
-In this assignment, you'll learn how to bring structure, flexibility, and responsiveness to your web pages using modern CSS layout techniques—**Flexbox** and **Grid**. You'll also apply **Responsive Web Design (RWD)** principles to ensure your page adapts beautifully across screen sizes and devices.
+## Features
+- **Header & Navigation Bar:** The navigation uses Flexbox for easy alignment and spacing.
+- **Main Content & Sidebar:** The main area is built with CSS Grid, giving more space to the content and a sidebar for extra info.
+- **Responsive Design:** Media queries adjust the layout for smaller screens (tablets and mobiles), stacking sections and adjusting navigation.
+- **Clean & Readable Code:** The CSS is organized with comments explaining the purpose of each section.
 
-## Objective
+## How I Built It
+1. **HTML5 Structure:** Created semantic sections — header, nav, main (content + sidebar), and footer.
+2. **CSS Layouts:**
+   - Flexbox for navigation links.
+   - CSS Grid for the main content layout.
+3. **Responsive Techniques:** 
+   - Media queries for different breakpoints.
+   - Relative units (`%`, `rem`) to make the layout flexible.
+4. **Styling:** Used simple color schemes.
 
-Build a responsive multi-section webpage that uses **Flexbox** and **CSS Grid** for layout and demonstrates how content adjusts across mobile, tablet, and desktop views. You'll showcase your ability to align and position content with precision, using media queries and flexible units to enhance the user experience on any device.
+**Linet Maina**  
+This assignment demonstrates my understanding of CSS layout techniques and responsive design principles.
 
-## What You’ll Practice
 
-* Structuring content using Flexbox for 1D layouts (rows or columns)
-* Using CSS Grid for complex 2D layouts
-* Applying responsive design techniques using media queries and relative units (`%, rem`, `vw`, etc.)
-* Creating layouts that gracefully adapt to different screen sizes without breaking
-
-## Instructions
-
-Create a responsive webpage that contains multiple sections—such as a header, navigation bar, content area, sidebar, and footer. You are encouraged to use Flexbox in one part of the page and Grid in another (e.g., Grid for the main layout and Flexbox for cards or navigation alignment).
-
-Make sure your layout:
-
-* Looks good on **desktop**, **tablet**, and **mobile**
-* Uses media queries to adjust column layout, spacing, or visibility
-* Demonstrates thoughtful content placement using both layout models
-
-Avoid using any CSS frameworks or libraries—build everything with raw CSS.
-
-## Deliverables
-
-Submit the following:
-
-* `index.html`: Your HTML5 structure
-* `style.css`: Your responsive CSS file with Flexbox, Grid, and media queries
-
-The code should demonstrate:
-
-* Clear use of Flexbox and Grid
-* Responsiveness with proper breakpoints
-* Clean, maintainable CSS structure with helpful comments
-
-## Tips
-
-* Effective use of Flexbox and CSS Grid layout techniques
-* Visual clarity and logical content flow across screen sizes
-* Proper use of media queries and responsive units
-* Code readability, organization, and best practices
-* Creativity and attention to layout detail
 
 
